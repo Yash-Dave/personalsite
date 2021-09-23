@@ -224,7 +224,6 @@ img{
   height: auto;
   size: 400px;
   border-radius: 15px;
-  transform: skewY(2deg);
   box-shadow: 15px 15px 8px grey;
   bottom: 20%;
 }
