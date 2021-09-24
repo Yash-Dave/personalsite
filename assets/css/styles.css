@@ -328,6 +328,7 @@ img{
   cursor: pointer;
   margin-left: auto;
   margin-right: auto;
+  display: block;
 }
 .work__img img:hover{
   transform: scale(1.1);
