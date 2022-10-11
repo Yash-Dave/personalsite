@@ -5,6 +5,7 @@
 - Technologies Used:
   - Html
   - Css
+  - Javascript
  
 - Deployment:  [Personal site](https://yash-dave.github.io/personalsite/)
  
