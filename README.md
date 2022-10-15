@@ -6,6 +6,7 @@
   - Html
   - Css
   - Javascript
+  - Bootstrap
  
 - Deployment:  [Personal site](https://yash-dave.github.io/personalsite/)
  
